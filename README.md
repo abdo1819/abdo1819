@@ -76,16 +76,16 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/abdo1819/github-readme-stats">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo1819&hide=Makefile&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
     <br/><br/>
   <div align=center>
-    <a href="https://github.com/abdo1819/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=abdo1819&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/abdo1819/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=abdo1819&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
